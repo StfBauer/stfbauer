@@ -1,7 +1,7 @@
-<div style="max-width: 80%">
+![alt text](header-1.jpg)
+
 Stefan Bauer loves to bring beautiful, sustainable, flexible designs based on solid technologies to life. Driven by curiosity, he tries to find new innovative ways to solve aesthetic and functional problems.
 Born and raised in Linz / Austria, he now lives and works in Vienna.
-</div>
 
 
 Stefan's curiosity for technologies, art and design shaped his future early on in his life. While attending a school for a mechanical engineer at the age of 16, his real passion was always around visual design and development. Fast forward a few years; He is now a designer, founder,  speaker, occasional developer and maker.
